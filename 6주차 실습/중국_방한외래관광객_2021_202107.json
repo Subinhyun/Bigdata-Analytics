@@ -1,0 +1,44 @@
+[
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 7346,
+        "yyyymm": "202101"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 11982,
+        "yyyymm": "202102"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 18980,
+        "yyyymm": "202103"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 16830,
+        "yyyymm": "202104"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 14221,
+        "yyyymm": "202105"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 12942,
+        "yyyymm": "202106"
+    },
+    {
+        "nat_cd": "112",
+        "nat_name": "중국",
+        "visit_cnt": 13469,
+        "yyyymm": "202107"
+    }
+]
